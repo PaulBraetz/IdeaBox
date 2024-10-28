@@ -1,6 +1,8 @@
 # IdeaBox
-Where Ideas Go To Collect Dust
+Where Ideas Go To Collect Dust.
+
 PRs will be considered for dust collection.
+
 Currently in the box:
 - Blazor component live preview (akin to storybook)
 - AI assistant/client with caching & semantic search
