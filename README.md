@@ -10,4 +10,4 @@ Currently in the box:
 - IKVM Maven package browser VS extension
 - Modix NSJ -> STJ
 - Blazor analyzer for non-escaped (`@varname`) parameters passed to components with string properties (`<MyComponent Prop="varname"/>`)
-
+- utf8 byte -> char sequencereader
