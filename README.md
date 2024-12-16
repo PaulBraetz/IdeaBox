@@ -4,6 +4,7 @@ Where Ideas Go To Collect Dust.
 PRs will be considered for dust collection.
 
 Currently in the box:
+- Make IKVM run in Blazor WASM
 - Blazor component live preview (akin to storybook)
 - AI assistant/client with caching & semantic search
 - Generator for property setter validation akin to validation properties
