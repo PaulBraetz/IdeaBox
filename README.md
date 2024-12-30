@@ -12,3 +12,4 @@ Currently in the box:
 - Blazor analyzer for non-escaped (`@varname`) parameters passed to components with string properties (`<MyComponent Prop="varname"/>`)
 - utf8 byte -> char sequencereader
 - DTO+Mapping+Validation generator
+- Create a blog
