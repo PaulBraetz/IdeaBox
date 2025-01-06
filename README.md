@@ -13,3 +13,4 @@ Currently in the box:
 - utf8 byte -> char sequencereader
 - DTO+Mapping+Validation generator
 - Create a blog
+- benchmark SG for having all functions in code and conditionally include the most performant one
