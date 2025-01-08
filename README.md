@@ -17,3 +17,4 @@ Currently in the box:
 - generalize BlockTerminators from template lexer
 - modix log VC join/leave to vc chat; delete after x hours
 - modix log VC statuc change to vc chat; delete after x hours
+- write an analyzer to detect erroneous/unnecessary calls to ToList()
