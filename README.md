@@ -20,3 +20,4 @@ Currently in the box:
 - write an analyzer to detect erroneous/unnecessary calls to ToList()
 - autobenchmark generator
 - knowledge graph / virtual (brain) memory system
+- implement IOptions pattern generator (#7)
