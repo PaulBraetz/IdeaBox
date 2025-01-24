@@ -19,3 +19,4 @@ Currently in the box:
 - modix log VC status change to vc chat; delete after x hours
 - write an analyzer to detect erroneous/unnecessary calls to ToList()
 - autobenchmark generator
+- knowledge graph / virtual (brain) memory system
