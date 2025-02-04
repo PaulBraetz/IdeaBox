@@ -21,3 +21,4 @@ Currently in the box:
 - autobenchmark generator
 - knowledge graph / virtual (brain) memory system
 - implement IOptions pattern generator (#7)
+- feature paths for C# libraries
