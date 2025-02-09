@@ -22,3 +22,4 @@ Currently in the box:
 - knowledge graph / virtual (brain) memory system
 - implement IOptions pattern generator (#7)
 - feature paths for C# libraries
+- "living documentation" framework/SG/build target for C#
